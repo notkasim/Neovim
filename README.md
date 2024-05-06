@@ -27,3 +27,14 @@ Runtimepath Windows = ~/AppData/Local/nvim/lua
     ├── 📁 plugin
     ├── 📁 syntax
     └── 🇻 init.vim
+
+    ~/.config/nvim
+    ├── nvim
+    │   ├── init.lua
+    │   └── lua
+    │       └── modules
+    │           ├── confplug.lua
+    │           ├── keymaps.lua
+    │           ├── options.lua
+    │           └── plugins.lua
+    └── 🇻 init.vim
