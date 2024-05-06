@@ -1,4 +1,4 @@
-# Neovim
+# 🇻 Neovim
 
 Runtimepath Linux = ~/.config/nvim/lua
 Runtimepath Windows = ~/AppData/Local/nvim/lua
