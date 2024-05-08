@@ -67,3 +67,12 @@
 
 7 j -- move 7 lines down with relative number
 5 k -- move 5 line upp with realtive number
+
+Tmux split navigation
+<C-h> right vertical split
+<C-l> left virtical split
+<C-j> down horizational split
+<C-k> upp horzational split
+
+dict = explorer
+,dict = explorer

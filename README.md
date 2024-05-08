@@ -2,7 +2,7 @@
 
 Runtimepath Linux = ~/.config/nvim/lua
 Runtimepath Windows = ~/AppData/Local/nvim/lua
-
+Default colorschemes /usr/share/nvim/runtime/colors 
 
     📁 ~/.config
     ├── 📁 nvim
