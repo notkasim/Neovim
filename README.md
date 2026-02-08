@@ -26,5 +26,5 @@ Default colorschemes /usr/share/nvim/runtime/colors
     │           ├── keymaps.lua
     │           ├── options.lua
     │           └── plugins.lua
-    └── 🇻 init.vim
+    └──  init.vim
 ```
