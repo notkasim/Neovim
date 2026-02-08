@@ -12,7 +12,7 @@ set-alias vim nvim-qt
 set-alias vi nvim
 ```
 
-```powershell
+```
 Runtimepath Linux = ~/.config/nvim/lua
 Runtimepath Windows = ~/AppData/Local/nvim/lua
 Default colorschemes /usr/share/nvim/runtime/colors 
@@ -27,4 +27,4 @@ Default colorschemes /usr/share/nvim/runtime/colors
     │           ├── options.lua
     │           └── plugins.lua
     └── 🇻 init.vim
-```powershell
+```
